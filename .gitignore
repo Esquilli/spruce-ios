@@ -37,3 +37,6 @@ fastlane/screenshots
 
 # scan temporary files
 fastlane/test_output
+
+# Swift Package Manager
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
